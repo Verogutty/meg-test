@@ -11,7 +11,7 @@ to estimate the average fragment length of the ChIP-Seq data under study, and to
          background density. The average background density is then used to estimate a reasonable threshold for 
          binding peaks.
 
-![alt text for screen readers](PG1.PNG)
+![alt text for screen readers](meg-test/PG1.png)
          
          
 ## 2)Shift tags mapping to the + or - strand towards the expected center of the DNA fragment by ChIP-Center 
